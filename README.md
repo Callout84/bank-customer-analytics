@@ -88,7 +88,7 @@ Desenvolvimento de dashboards e gráficos executivos utilizando:
 
 # Churn por País
 
-![Churn País](images/churn_pais.png)
+![Churn País](/content/churn_pais.png)
 
 ---
 
