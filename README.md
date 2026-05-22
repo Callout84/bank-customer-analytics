@@ -88,7 +88,7 @@ Desenvolvimento de dashboards e gráficos executivos utilizando:
 
 # Churn por País
 
-![Churn País](images/churn_pais.png)
+[![Churn País](images/churn_pais.png)](https://github.com/Callout84/bank-customer-analytics/blob/main/images/churn_pais.png?raw=true)
 
 ---
 
